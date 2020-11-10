@@ -1,0 +1,11 @@
+#home-bg {
+  background-image: url("../public/chuck.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
